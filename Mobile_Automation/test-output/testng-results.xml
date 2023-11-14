@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-14T07:06:58Z" name="Default suite" finished-at="2023-11-14T07:07:29Z" duration-ms="31082">
+    <groups>
+    </groups>
+    <test started-at="2023-11-14T07:06:58Z" name="Default test" finished-at="2023-11-14T07:07:29Z" duration-ms="31082">
+      <class name="com.it.Mobile_Automation.Test_Class">
+        <test-method is-config="true" signature="startApp()[pri:0, instance:com.it.Mobile_Automation.Test_Class@68dc098b]" started-at="2023-11-14T13:06:58Z" name="startApp" finished-at="2023-11-14T13:07:14Z" duration-ms="15800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApp -->
+        <test-method signature="runApp()[pri:0, instance:com.it.Mobile_Automation.Test_Class@68dc098b]" started-at="2023-11-14T13:07:14Z" name="runApp" finished-at="2023-11-14T13:07:27Z" duration-ms="13819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runApp -->
+        <test-method is-config="true" signature="removeApp()[pri:0, instance:com.it.Mobile_Automation.Test_Class@68dc098b]" started-at="2023-11-14T13:07:27Z" name="removeApp" finished-at="2023-11-14T13:07:29Z" duration-ms="1429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeApp -->
+      </class> <!-- com.it.Mobile_Automation.Test_Class -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
